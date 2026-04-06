@@ -10,21 +10,25 @@ body {
         padding-left: 2.2em;
         border: none;
         box-shadow: none;
-        padding-top: 0.4em;
-        padding-bottom: 0.4em;
+        padding-top: 0.2em;
+        padding-bottom: 0.2em;
 
         h3 {
             position: absolute;
             left: 0;
-            top: 0.35em;
+            top: 0;
             font-size: 0.62em;
             font-weight: 600;
             color: var(--text-muted);
             margin: 0;
             min-width: 1.8em;
             text-align: right;
-            line-height: 1.4;
+            line-height: 2.4;
             border: none;
+        }
+
+        p:first-of-type {
+            margin-top: 0;
         }
     }
 }
