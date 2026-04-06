@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2026-04-05T21:57:31.132-07:00","updated":"2026-04-05T21:57:31.132-07:00"}
+{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2026-04-05T21:57:31.132-07:00","updated":"2026-04-05T22:01:03.019-07:00"}
 ---
 
 > Understand that this subject should be approached with **Wisdom from the Lord**. My view on this changed within the past year because of this study. I would **refrain from reading** and **only come back when the Lord prompt you** to explore this further.
@@ -21,22 +21,20 @@ This was about **==disorder==**.
 
 In Corinth, people were worshipping **Aphrodite**. Aphrodite's cult was tied to *sexual freedom* and *indulgence*. The environment encouraged women to use sexuality as power, **leading to abuse of roles**. "your body is a temple of the Holy Spirit" reaffirm that sexuality as under Christ's authority, not a goddess's. (To worship the goddess, you would go to her temple and have sex with the priests). So you can see how Aphrodite had so much influence.
 
-**1 Corinthians 6:19–20**
-
+>**1 Corinthians 6:19–20**
 > ¹⁹ Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God, and that you are not your own?
 > ²⁰ For you have been bought for a price: therefore glorify God in your body.
 
 At that time, women were also **disruptive during worship** (some people say for lack of education; Imo their questions were more so because they are taught by the Aphrodite worshipper). So Paul decree for them to ask their husband.
 
-**1 Corinthians 14:33–35**
-
+>**1 Corinthians 14:33–35**
 > ³³ for God is not a God of confusion, but of peace. As in all the churches of the saints,
 > ³⁴ the women are to keep silent in the churches; for they are not permitted to speak, but are to subject themselves, just as the Law also says.
 > ³⁵ If they desire to learn anything, let them ask their own husbands at home; for it is improper for a woman to speak in church.
 
 Praying with an uncovered head was culturally understood as **public defiance** at the time.
 
-**1 Corinthians 11:5**
+>**1 Corinthians 11:5**
 > ⁵ But every woman who has her head uncovered while praying or prophesying disgraces her head, for it is one and the same as the woman whose head is shaved.
 
 ## **Ephesus**
@@ -237,7 +235,7 @@ God used Deborah to deliver the enemy into the hand of **Barak**. But he refused
 > **Judges 4:21**
 > ²¹ But Jael, Heber's wife, took a tent peg and a hammer in her hand, and went secretly to him and drove the peg into his temple, and it went through into the ground; for he was sound asleep and exhausted. So he died.
 
-> **That's the way of God.**
+ **That's the way of God.**
 
 ## Summary
 
