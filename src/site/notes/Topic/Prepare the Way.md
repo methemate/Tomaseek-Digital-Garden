@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topic/prepare-the-way/","created":"2026-04-05T22:06:59.262-07:00","updated":"2026-04-05T22:06:59.262-07:00"}
+{"dg-publish":true,"permalink":"/topic/prepare-the-way/","created":"2026-04-05T22:26:37.711-07:00","updated":"2026-04-05T22:26:37.712-07:00"}
 ---
 
 ## **What's Prepare the Way?**
@@ -18,7 +18,7 @@ In days past, a King in victory would announce himself coming prior to going pas
 - Christ did healed a blind man but he pulled him outside of the camp (add address here)
 - The [[repentance\|Repentance]] that John preach requires proof before baptism is applied. (1) They left their camp to go to the wilderness and (2) They have to bring a proof of repentance. Much of the church today lack the proof of repentance. Repentance means to **turn away from sin** as much as **turning to God**.
 > ⁵ And all the country of Judea was going out to him, and all the people of Jerusalem; and they were being baptized by him in the Jordan River, confessing their sins.
-- Here is the result of [[Obidience\|Obidience]]
+- Here is the result of [[Obedience\|Obedience]]
 > ⁶ John was clothed with camel's hair and _wore_ a leather belt around his waist, and his diet was locusts and wild honey.
 - Camel's hair, a girdle of skin were the attire of the prophet Elijah whom Jesus likened John too.
 - Camel's hair are rarely used at the time; it's are much more **uncomfortable** than linen at the time. so is the girdle. Most of use would not eat [[the locust\|The Locust]] or the wild honey --> Part of the outward working of [[repentance\|Repentance]] is to afflict oneself (taking away your own comfort)
