@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2025-12-12T12:31:01.000-08:00","updated":"2026-04-05T21:26:41.784-07:00"}
+{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2026-04-05T21:45:09.181-07:00","updated":"2026-04-05T21:45:09.181-07:00"}
 ---
 
 > Understand that this subject should be approached with **Wisdom from the Lord**. My view on this changed within the past year because of this study. I would **refrain from reading** and **only come back when the Lord prompt you** to explore this further.
@@ -21,47 +21,18 @@ This was about **==disorder==**.
 
 In Corinth, people were worshipping **Aphrodite**. Aphrodite’s cult was tied to *sexual freedom* and *indulgence*. The environment encouraged women to use sexuality as power, **leading to abuse of roles**. “your body is a temple of the Holy Spirit” reaffirm that sexuality as under Christ’s authority, not a goddess’s. (To worship the goddess, you would go to her temple and have sex with the priests). So you can see how Aphrodite had so much influence.
 
-**1 Corinthians 6:19–20**  
+**1 Corinthians 6:19–20**
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kjv-tagged-lexicon/bible-2/46-1-corinthians/1-corinthians-6/#19" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-  
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kjv-tagged-lexicon/bible-2/46-1-corinthians/1-corinthians-6/#20" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-
+> ¹⁹ Or do you not know that your body is a temple of the Holy Spirit within you, whom you have from God, and that you are not your own?
+> ²⁰ For you have been bought for a price: therefore glorify God in your body.
 
 At that time, women were also **disruptive during worship** (some people say for lack of education; Imo their questions were more so because they are taught by the Aphrodite worshipper). So Paul decree for them to ask their husband.
 
-**1 Corinthians 14:33–35**  
+**1 Corinthians 14:33–35**
 
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kjv-tagged-lexicon/bible-2/46-1-corinthians/1-corinthians-14/#33" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-  
-
-<div class="transclusion internal-embed is-loaded"><a class="markdown-embed-link" href="/kjv-tagged-lexicon/bible-2/46-1-corinthians/1-corinthians-14/#35" aria-label="Open link"><svg xmlns="http://www.w3.org/2000/svg" width="24" height="24" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="svg-icon lucide-link"><path d="M10 13a5 5 0 0 0 7.54.54l3-3a5 5 0 0 0-7.07-7.07l-1.72 1.71"></path><path d="M14 11a5 5 0 0 0-7.54-.54l-3 3a5 5 0 0 0 7.07 7.07l1.71-1.71"></path></svg></a><div class="markdown-embed">
-
-
-
-
-
-</div></div>
-
+> ³³ for God is not a God of confusion, but of peace. As in all the churches of the saints,
+> ³⁴ the women are to keep silent in the churches; for they are not permitted to speak, but are to subject themselves, just as the Law also says.
+> ³⁵ If they desire to learn anything, let them ask their own husbands at home; for it is improper for a woman to speak in church.
 
 Praying with an uncovered head was culturally understood as **public defiance** at the time.
 
