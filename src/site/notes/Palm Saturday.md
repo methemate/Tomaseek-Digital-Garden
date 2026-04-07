@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/palm-saturday/","created":"2026-04-06T20:52:30.835-07:00","updated":"2026-04-06T23:51:45.211-07:00"}
+{"dg-publish":true,"permalink":"/palm-saturday/","created":"2026-04-06T20:52:30.000-07:00","updated":"2026-04-06T23:55:42.766-07:00"}
 ---
 
 I mentioned why Wednesday would be the 14th of Nissan in [[Topic/Passover, the Feasts, and Jesus as Their Fulfillment\|Passover, the Feasts, and Jesus as Their Fulfillment]]. If so, Jesus as the Lamb entered "the home" to be examined fall on Saturday the Sabbath, just as all the other lamb we're commanded to be examined the Tanakh (first 5 books of the Bible)
@@ -120,19 +120,16 @@ But what was Jesus doing?
 
 He came into the city. He went to the temple. He *looked around at everything*. And He left.
 
-That is not a triumph. That is an inspection.
+He did not take over. That was His inspection.
 
 -> The crowd saw a King arriving. Jesus was the Lamb being examined.
 -> The Pharisees saw a threat. Jesus was the Son sent to the vineyard.
--> The disciples saw a celebration. ==Jesus was walking toward the cross.==
+-> **==Jesus was going as a Lamb led to the slaughter==**
 
 These things were all true at the same time. That is the depth of what God was doing on the 10th of Nisan.
 #### Wisdom
 
-The [[Topic/Passover, the Feasts, and Jesus as Their Fulfillment\|examination of the Lamb]] does not begin at the cross. It begins at the entry. Four days of questioning, testing, challenging- *none found any blemish*.
+The [[Topic/Passover, the Feasts, and Jesus as Their Fulfillment\|examination of the Lamb]] does not begin at the cross. It begins at the entry. Four days of questioning, testing, challenging by Israelites and Gentiles and *none found any blemish*.
 
-What the parable makes clear is that the rejection was not a surprise to God. ==The Son was sent knowing He would be killed.== The inspection was real. The verdict was real. The judgment that followed was real.
+What the parable makes clear is that the rejection was not a surprise to God. ==The Son was sent knowing He would be killed.== 
 
-*Inspection → Exposure → Judgment → Rejection of the Son*
-
-This is the pattern of the week. And it started on Saturday.
