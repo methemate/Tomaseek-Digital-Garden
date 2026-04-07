@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2026-04-05T21:57:31.132-07:00","updated":"2026-04-05T22:01:03.019-07:00"}
+{"dg-publish":true,"permalink":"/topic/women-in-ministry/","created":"2026-04-05T21:57:31.000-07:00","updated":"2026-04-06T07:08:48.000-07:00"}
 ---
 
 > Understand that this subject should be approached with **Wisdom from the Lord**. My view on this changed within the past year because of this study. I would **refrain from reading** and **only come back when the Lord prompt you** to explore this further.
@@ -72,7 +72,7 @@ That's likely why Paul in [[KJV Tagged + Lexicon/Bible 2/56 - Titus/Titus 2\|Tit
 > ³ Older women likewise _are to be_ reverent in their behavior, not malicious gossips nor enslaved to much wine, teaching what is good,
 > ⁵ _to be_ sensible, pure, workers at home, kind, being subject to their own husbands, so that the word of God will not be dishonored.
 
-## **Does this mean where shall be no Women in the 5-fold?**
+## **Does this mean there shall be no Women in the 5-fold?**
 NO. Here are the examples.
 
 ## **Apostles**

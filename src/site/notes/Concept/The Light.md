@@ -665,9 +665,9 @@ who were born, not of blood, nor of the will of the flesh, nor of the will of a 
 
 
 
-
-### 27
-John replied, "A person can receive not even one thing unless it has been given to him from heaven.  
+### 19
+And this is the judgment, that the Light has come into the world, and people loved the darkness rather than the Light; for their deeds were evil. 
+ 
 
 
 </div></div>
@@ -677,10 +677,10 @@ John replied, "A person can receive not even one thing unless it has been given 
 
 
 
-He who has the bride is the groom; but the friend of the groom, who stands and listens to him, rejoices greatly because of the groom's voice. So this joy of mine has been made full.  
-
-### 30
-He must increase, but I must decrease.  
+### 21
+But the one who practices the truth comes to the Light, so that his deeds will be revealed as having been performed in God."John the Baptist's Last Testimony
+ 
+ 
 
 
 </div></div>
