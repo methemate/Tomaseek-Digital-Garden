@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concept/the-light/","created":"2025-12-16T00:41:50.000-08:00","updated":"2026-03-28T11:11:23.300-07:00"}
+{"dg-publish":true,"permalink":"/concept/the-light/","created":"2025-12-16T00:41:50.000-08:00","updated":"2026-07-27T22:39:36.390-07:00"}
 ---
 
 Our God is the **Father of Lights** ([[KJV Tagged + Lexicon/Bible 2/59 - James/James 1#17\|James 1#17]]).  

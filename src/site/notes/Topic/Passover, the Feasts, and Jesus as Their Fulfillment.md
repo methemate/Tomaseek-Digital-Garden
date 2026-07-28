@@ -69,7 +69,7 @@ Shavuot is counted **fifty days from the Feast of First Fruits**. It is when the
 
 Four days before Passover - on the **10th of Nisan** - each family in Israel was commanded to select a lamb and bring it into their home to examine it for blemishes. The lamb lived with the family for four days, being inspected daily.
 
-Jesus' triumphal entry into Jerusalem on what we call *"Palm Sunday"* (Which should be on **Saturday** the Sabbath; see more [[Palm Saturday\|Palm Saturday]] ) corresponds **precisely** to the 10th of Nisan - **Lamb Selection Day**. He entered from Bethany, riding into Jerusalem as the crowds welcomed him. From that moment, Jesus was "in the house" - in the temple, in the city - being examined.
+Jesus' triumphal entry into Jerusalem on what we call *"Palm Sunday"* (Which should be on **Saturday** the Sabbath; see more [[Topic/Palm Saturday\|Palm Saturday]] ) corresponds **precisely** to the 10th of Nisan - **Lamb Selection Day**. He entered from Bethany, riding into Jerusalem as the crowds welcomed him. From that moment, Jesus was "in the house" - in the temple, in the city - being examined.
 
 The chief priests. The Pharisees. The Sadducees. The scribes. The Romans. All of them questioned him, challenged him, tested him. **None found any blemish.** He was declared innocent repeatedly. He was the lamb undergoing his four-day examination.
 

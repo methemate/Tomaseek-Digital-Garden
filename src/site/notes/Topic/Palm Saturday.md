@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topic/palm-saturday/","created":"2026-04-06T20:52:30.000-07:00","updated":"2026-04-06T23:55:42.000-07:00"}
+{"dg-publish":true,"permalink":"/topic/palm-saturday/","created":"2026-04-06T20:52:30.000-07:00","updated":"2026-05-25T19:03:10.318-07:00"}
 ---
 
 I mentioned why Wednesday would be the 14th of Nissan in [[Topic/Passover, the Feasts, and Jesus as Their Fulfillment\|Passover, the Feasts, and Jesus as Their Fulfillment]]. If so, Jesus as the Lamb entered "the home" to be examined fall on Saturday the Sabbath, just as all the other lamb we're commanded to be examined the Tanakh (first 5 books of the Bible)
@@ -15,7 +15,7 @@ On that Sabbath, every devout Jew in Jerusalem was **already gathered at the te
 These were Passover pilgrims already in the city. On the Sabbath they weren't traveling - they were **right there**, gathered and waiting.
 
 -> Lord of the Sabbath entered as a Lamb to be examined by the whole of Israel, Roman and the World to be shown as Blameless.
-(see [[Concept/My Father is working until now, and I Myself am working.\|My Father is working until now, and I Myself am working.]])
+(see [[Topic/My Father is working until now, and I Myself am working.\|My Father is working until now, and I Myself am working.]])
 
 #### 2. The Political Context
 
@@ -131,5 +131,5 @@ These things were all true at the same time. That is the depth of what God was d
 
 The [[Topic/Passover, the Feasts, and Jesus as Their Fulfillment\|examination of the Lamb]] does not begin at the cross. It begins at the entry. Four days of questioning, testing, challenging by Israelites and Gentiles and *none found any blemish*.
 
-What the parable makes clear is that the rejection was not a surprise to God. ==The Son was sent knowing He would be killed.== 
+What the parable makes clear is that the rejection was not a surprise to God. ==The Son was sent knowing He would be killed as the atonement.== 
 
