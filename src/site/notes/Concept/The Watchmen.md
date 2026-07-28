@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concept/the-watchmen/","created":"2026-07-27T22:14:08.000-07:00","updated":"2026-07-27T22:39:39.957-07:00"}
+{"dg-publish":true,"permalink":"/concept/the-watchmen/","created":"2026-07-27T22:53:23.000-07:00","updated":"2026-07-27T22:54:39.115-07:00"}
 ---
 
 
@@ -21,6 +21,7 @@ The verse that gathers most of this is Isaiah 62:6–7 — *"On your walls, O Je
 ## A · The watchman on the wall / tower (narrative)
 The  lookout — the picture to be built upon.
 
+> [!note]- Helpful notes
 > **The trained eye.** The watchman's first skill is *identification* — seeing what is incoming before anyone else, and knowing what it means. He is trained on cues: a lone runner means tidings (2 Samuel 18:24–26), and he can name a man by his gait alone — "the running of the first one is like the running of Ahimaaz the son of Zadok" (2 Samuel 18:27) — or a driver by his driving: "the driving is like the driving of Jehu... for he drives furiously" (2 Kings 9:20). Trained to identify threat, to see the incoming, to read the signs given him — and he must be *well-trained* to be effective. An untrained eye on the wall is as useless as a blind one (Isaiah 56:10, category C).
 - 2 Samuel 18:24–27 — the watchman over the gate sees Ahimaaz running (see more[[Runner, Messenger, Watchman and the Rest of Jacob#3 · Messengers Known by Their Message\| Knows the message]])
 - 2 Samuel 13:34 — "the young man who was the watchman raised his eyes and looked"- Show the function of a warning of things outside the wall. First to see the change.
@@ -28,7 +29,7 @@ The  lookout — the picture to be built upon.
 - 2 Kings 9:17–20 — the watchman on the tower in Jezreel sights Jehu's approach. (Side note: This is where a prophet is given a part of the word but when he spoke the rest of the words came out)
 - Isaiah 21:6, 8 — "Go, station the lookout... on the watchtower I stand continually by day" The watchmen/ lookout hear the command of the Lord of Army  and make it known to the congregation (they are part of the troop that make sure the army is organized instep with the Lord)
 
-### The longer explanation
+#### The longer explanation
 > *We hope you have studied the word above — in context — before reading this; you will get far more out of it.*
 
 Think of a sniper. Sometimes the sniper works with a **spotter** — a dedicated lookout beside the shooter; sometimes the sniper is the lookout, reading the field through the scope with the rifle in hand. Either way the shooter must judge **distance** accurately and *fast*: is that figure at 50 feet, 100, 200, 300? A precision weapon leaves no room to guess, so the eye is trained on **cues**. The face is one of them: up close it is plain, but detail falls off with distance — to the naked eye, facial identification drops to nearly zero around **150 feet** (not 50 or 100, where a face is still clear; by about 200 feet you can no longer make out the eyes). So the shooter learns exactly what to look for at each range, and reads the distance quickly from that details.
@@ -43,19 +44,22 @@ And the watch is not passive. In Isaiah 21:6, 8 the lookout stands at the tower 
 The heart of the calling: accountability.
 - Ezekiel 3:16–21 — "I have appointed you a watchman for the house of Israel" *(the fuller unit, not just v. 17)*
 
+> [!info]- Context
 > **Setting — Chebar, the great river (Ezekiel 1:1, 3).** *Chebar* carries *great* — the great canal. By this river the glory of the LORD appeared to Ezekiel (Ezekiel 1; and returned to him there, Ezekiel 43:3) **before** any charge was given. This is the pattern: **you receive your commission beside the water, in the presence of the Lord** — vision before sending (so Daniel too receives his vision by the great river, Daniel 10:4; and the Son is sealed at the Jordan before He is sent, Matthew 3:16–17). What the watchman later warns, he warns as one who has already beheld the glory.
 
+> [!info]- Context
 > **Setting — Tel-abib, the mound with two names (Ezekiel 3:15).** The name says two things at once — *til abūbi*, the **mound of the flood** (the desolation, the present condition, what the eye sees), and to the Hebrew ear *tēl-abib*, the **mound of spring**, the green ears of grain (the firstfruits, what the Lord has for the place). **This is how the Lord speaks to His people:** He sees the ruin and the harvest *together* — and the watchman must see both as He does, not one after the other but at once. *(Philology and sources: [[Til Abubi and Tel-abib\|Til Abubi and Tel-abib]])* 
 
 - Ezekiel 33:1–9 — the watchman passage; the blood-guilt lands at v. 6: "his blood I will require from the watchman's hand"
+> [!note]- Helpful notes
 > **The blood is required.** If the watchman sees the sword coming and does not blow the trumpet, the people die in their sin — "but his blood I will require from the watchman's hand" (Ezekiel 33:6). Warn them and you are clean; stay silent and their blood is on your head (Ezekiel 33:8–9). To *see* and not *tell* is itself the sin. (Same chapter: the righteous who turns to injustice dies; the wicked who repents lives — Ezekiel 33:12–19.)
 - Jeremiah 6:17 — "I set watchmen over you, saying, 'Listen to the sound of the trumpet!'"
 > Prophet and watchman — equivalent here *(the overlap is drawn out in the longer explanation)*.
 - Hosea 9:8 — "Ephraim was a watchman with my God, a prophet"
-> [!note]- Helpful notes
+> [!info]- Context
 > Ephraim here is the whole northern kingdom — interchangeable with Israel throughout Hosea. Gilgal had been the place of covenant beginnings: the first camp in the land, where the LORD "rolled away the reproach of Egypt" (Joshua 5:9). It has become the headquarters of apostasy — "All their evil is at Gilgal... I will drive them out of My house" (Hosea 9:15) — corrupt altar and corrupt throne together, for this is where the monarchy was made (1 Samuel 11:15), and "They have set up kings, but not by Me" (Hosea 8:4). Over such an Ephraim the prophet-watchman is set, and opposed: "a trapper's snare in all his ways, and hostility in the house of his God" (Hosea 9:8).
 - Isaiah 21:11–12 — "Watchman, how far gone is the night?"
-> [!note]- Helpful notes
+> [!info]- Context
 > Dumah means *silence* — the condition the people cry out of: heaven shut, the night unlifting. They seek the watchman to learn when judgment ends. His answer, "Morning comes but also night," half turns them away — he affirms a dawn but withholds the hour, because the word and the judgment are still the Lord's; the watchman keeps the watch but does not set the morning. So "come back again" points past himself to the One who holds the night. Men seek the prophet in the time of trouble — if only they had sought the Lord before it.
 - Habakkuk 2:1 — "I will stand at my guard post... to keep watch"- He speaks to the Lord
 > [!note]- Helpful notes
