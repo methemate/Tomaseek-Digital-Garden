@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concept/the-watchmen/","created":"2026-07-28T22:13:20.847-07:00","updated":"2026-07-28T22:26:13.649-07:00"}
+{"dg-publish":true,"permalink":"/concept/the-watchmen/","created":"2026-07-28T22:46:13.596-07:00","updated":"2026-07-28T22:46:13.596-07:00"}
 ---
 
 
@@ -8,7 +8,7 @@
 
 ## Introduction
 
-This studies examine the **function of the watchman** — not just the ancient lookout but the office then and now: what need is *being fulfilled*, and the relationships define this role. Three run through every category below:
+This study examines the **function of the watchman** — not just the ancient lookout but the office then and now: what need is *being fulfilled*, and the relationships that define this role. Three run through every category below:
 
 - **The watchman and the people** — the watchman is set *over* them and *for* them, seeing on their behalf and answering for their souls (Ezekiel 33:2–6; Isaiah 62:6).
 - **The watchman and the function** — the office exists to see, to warn, to keep watch and never keep silent; it is defined by its charge, and measured by it (Isaiah 62:6; Ezekiel 3:17).
@@ -19,22 +19,22 @@ The verse that gathers most of this is Isaiah 62:6–7 — *"On your walls, O Je
 ---
 
 ## A · The watchman on the wall / tower (narrative)
-The  lookout — the picture to be built upon.
+The lookout — the picture to be built upon.
 
 > [!note]- Helpful notes
 > **The trained eye.** The watchman's first skill is *identification* — seeing what is incoming before anyone else, and knowing what it means. He is trained on cues: a lone runner means tidings (2 Samuel 18:24–26), and he can name a man by his gait alone — "the running of the first one is like the running of Ahimaaz the son of Zadok" (2 Samuel 18:27) — or a driver by his driving: "the driving is like the driving of Jehu... for he drives furiously" (2 Kings 9:20). Trained to identify threat, to see the incoming, to read the signs given him — and he must be *well-trained* to be effective. An untrained eye on the wall is as useless as a blind one (Isaiah 56:10, category C).
 - 2 Samuel 18:24–27 — the watchman over the gate sees Ahimaaz running (see more[[Runner, Messenger, Watchman and the Rest of Jacob#3 · Messengers Known by Their Message\| Knows the message]])
-- 2 Samuel 13:34 — "the young man who was the watchman raised his eyes and looked"- Show the function of a warning of things outside the wall. First to see the change.
-- 1 Samuel 14:16 — Saul's watchmen in Gibeah see the multitude melting away- The watchmen sees the works the Lord's done in the enemies camp first
+- 2 Samuel 13:34 — "the young man who was the watchman raised his eyes and looked" — Show the function of a warning of things outside the wall. First to see the change.
+- 1 Samuel 14:16 — Saul's watchmen in Gibeah see the multitude melting away — the watchmen see the works the Lord has done in the enemy's camp first
 - 2 Kings 9:17–20 — the watchman on the tower in Jezreel sights Jehu's approach. (Side note: This is where a prophet is given a part of the word but when he spoke the rest of the words came out)
-- Isaiah 21:6, 8 — "Go, station the lookout... on the watchtower I stand continually by day" The watchmen/ lookout hear the command of the Lord of Army  and make it known to the congregation (they are part of the troop that make sure the army is organized instep with the Lord)
+- Isaiah 21:6, 8 — "Go, station the lookout... on the watchtower I stand continually by day" The watchmen/ lookout hear the command of the LORD of hosts, and make it known to the congregation (they are part of the troop that make sure the army is organized instep with the Lord)
 
 #### The longer explanation
-> *We hope you have studied the word above — in context — before reading this; you will get far more out of it.*
+> *I hope you have studied the word above — in context — before reading this; you will get far more out of it.*
 
-Think of a sniper. Sometimes the sniper works with a **spotter** — a dedicated lookout beside the shooter; sometimes the sniper is the lookout, reading the field through the scope with the rifle in hand. Either way the shooter must judge **distance** accurately and *fast*: is that figure at 50 feet, 100, 200, 300? A precision weapon leaves no room to guess, so the eye is trained on **cues**. The face is one of them: up close it is plain, but detail falls off with distance — to the naked eye, facial identification drops to nearly zero around **150 feet** (not 50 or 100, where a face is still clear; by about 200 feet you can no longer make out the eyes). So the shooter learns exactly what to look for at each range, and reads the distance quickly from that details.
+Think of a sniper. Sometimes the sniper works with a **spotter** — a dedicated lookout beside the shooter; sometimes the sniper is the lookout, reading the field through the scope with the rifle in hand. Either way the shooter must judge **distance** accurately and *fast*: is that figure at 50 feet, 100, 200, 300? A precision weapon leaves no room to guess, so the eye is trained on **cues**. The face is one of them: up close it is plain, but detail falls off with distance — to the naked eye, facial identification drops to nearly zero around **150 feet** (not 50 or 100, where a face is still clear; by about 200 feet you can no longer make out the eyes). So the shooter learns exactly what to look for at each range, and reads the distance quickly from those details.
 
-This is the very skill the watchmen carry. They are **highly trained** — they know precisely what to look for, and can name it: a man by the way he runs (2 Samuel 18:27), a driver by the way he drives the chariots (2 Kings 9:20), an army's condition by the stir in its camp (1 Samuel 14:16). The little things are the whole craft; an untrained eye sees a smudge, the trained watchman sees the details *(who*, *what*, and *how far)*.
+This is the very skill the watchmen carry. They are **highly trained** — they know precisely what to look for, and can name it: a man by the way he runs (2 Samuel 18:27), a driver by the way he drives the chariots (2 Kings 9:20), an army's condition by the stir in its camp (1 Samuel 14:16). The little things are the whole craft; an untrained eye sees a smudge, the trained watchman sees the details — *who*, *what*, and *how far*.
 
 But the discipline opens into a gift. Because the watchman is set to look at the right place, the watchman is the first to **see the work of the Lord** — the enemy host melting away before a blow is struck (1 Samuel 14:16), the deliverer riding in (2 Kings 9:17–20). The one stationed to watch is the one who sees God move before anyone else does.
 
@@ -61,11 +61,11 @@ The heart of the calling: accountability.
 - Isaiah 21:11–12 — "Watchman, how far gone is the night?"
 > [!info]- Context
 > Dumah means *silence* — the condition the people cry out of: heaven shut, the night unlifting. They seek the watchman to learn when judgment ends. His answer, "Morning comes but also night," half turns them away — he affirms a dawn but withholds the hour, because the word and the judgment are still the Lord's; the watchman keeps the watch but does not set the morning. So "come back again" points past himself to the One who holds the night. Men seek the prophet in the time of trouble — if only they had sought the Lord before it.
-- Habakkuk 2:1 — "I will stand at my guard post... to keep watch"- He speaks to the Lord
+- Habakkuk 2:1 — "I will stand at my guard post... to keep watch" — He speaks to the Lord
 > [!note]- Helpful notes
 > The watchman who turns his post around — keeping watch not for the enemy but "to see what He will speak to me" (Habakkuk 2:1). This is the small hinge where **the watchman needs a runner**: the vision is "inscribed on tablets, that the one who reads it may run" (Habakkuk 2:2) — the watchman receives the word and hands it to the runner (§4 of the parent sheet).
 
-### The longer explanation
+#### The longer explanation
 > *I hope you have studied the word above — in context — before reading this; you will get far more out of it.*
 
 **Watchman and prophet — and a whole people called.** There is a consistent pattern here, and the direction matters: the **prophets are called to be watchmen** — the Lord appoints His prophet as a watchman (Ezekiel 3:17; 33:7; Hosea 9:8, "Ephraim was a watchman with my God, a prophet") — but we don't see it the other way around. And it isn't that the watchman always holds the *office* of the prophet, the fivefold prophet of Ephesians 4:11; rather, the watchman carries the same **function** as the prophet — to tell people what he sees. So this is not the fivefold office, yet it is the prophetic call. (This is to be frank a *personal conviction*)
@@ -84,7 +84,7 @@ And this is not just theory — we have seen it ourselves. As we pray for people
 
 **The next step is to speak — and here is the requirement.** Hearing is not the end. Most of the time, once you have heard, you have to speak out, because there is a requirement laid on the office: the Lord wants all to turn back to Him. So the watchman has to be the voice of the Lord, warning people to turn back and away from their sin. For if the watchman does not warn, the sinner will die in his sin — yet the Lord will require that blood from the watchman's hand, because he did not warn, because that is his office (Ezekiel 33:6–8). We have to understand the weight of this office.
 
-**And there will be times the people do not listen — and then they come to inquire of you.** This is Isaiah 21. When the people finally come asking, the watchman's condition has not changed: you keep watching — even through the night, watching and watching and watching — and you still speak of what you see. But there are times you are not there to comfort the people; you are only to tell them the present condition of what you see. You are not to twist it into what they want to hear. Lest you become the soothsayer, You say **exactly what is there, exactly what the Lord has given you.**
+**And there will be times the people do not listen — and then they come to inquire of you.** This is Isaiah 21. When the people finally come asking, the watchman's condition has not changed: you keep watching — even through the night, watching and watching and watching — and you still speak of what you see. But there are times you are not there to comfort the people; you are only to tell them the present condition of what you see. You are not to twist it into what they want to hear. Lest you become the soothsayer, you say **exactly what is there, exactly what the Lord has given you.**
 
 **The watchman — like Habakkuk — may bring their questions to the Lord.** The watchman stands in a place to speak to the Lord: to ask, to press for more, and to have Him reveal more. Habakkuk did exactly this — he brought the Lord hard, honest questions: *how long must I cry out?*, and even *how can You use a nation more wicked than us to judge us?* (Habakkuk 1). At first that can look like defiance — but it was not. He brought his questions *to* God, not against Him; then he took his post to wait for the answer (Habakkuk 2:1), and when it came, he obeyed it. So here is the line to hold: **asking is not doubting, and questioning is not disobeying.** Your job is not to doubt — your job is still to obey. You may inquire of the Lord anything, but you do so in faith, you wait for His word, and as He tells you, you do (even when you don't know why sometimes).
 
@@ -93,7 +93,7 @@ And this is not just theory — we have seen it ourselves. As we pray for people
 
 **And one more thing about Habakkuk — the runner.** After Habakkuk received the vision, he was told to write it down and hand it to a runner, and the runner would run and carry the message (Habakkuk 2:2). So there are times when your shofar is enough — you sound the alarm yourself and those who are close listen, and that is sufficient. And it reaches further than that: from your stretch of the wall you can signal across to another watchman on his stretch, and he in turn warns the people on his side of the camp — one watch passing the word along to the next. (We will open this up more when we come to Nehemiah.) But there are also times you need a runner to send the message — when it is more complicated, or when it is something new that a trumpet-blast cannot carry. Either way, part of the reason is this: you have to stay on the watch — you cannot leave your post. So the runner carries what the watchman cannot leave to deliver (§4 of the parent sheet).
 
-## C · Watchmen of the city — faithful and failed *(to be studied further)*
+## C · Watchmen of the city — faithful and failed
 The contrast: watchmen who cry out vs. watchmen who are blind or who wound.
 - Isaiah 62:6 — "On your walls, O Jerusalem, I have appointed watchmen" — charged to give themselves no rest, and to give God no rest either, until He makes Zion a praise (Isaiah 62:6–7).
 - Isaiah 52:8 — "your watchmen lift up their voices, they shout joyfully together" — they break into song because they see, with their own eyes, the LORD returning to restore Zion.
@@ -102,7 +102,7 @@ The contrast: watchmen who cry out vs. watchmen who are blind or who wound.
 > The mirror of Isaiah 52:8: the faithful watchman *sees* the LORD restore Zion and *shouts* (Isaiah 52:8; cf. Isaiah 62:1, 6 — never silent, taking no rest); the failed one is *blind, mute, asleep, self-serving* — "blind... mute dogs unable to bark... who love to slumber... greedy... each to his unjust gain" (Isaiah 56:10–11). The type recurs: blinded seers (Isaiah 29:10), the blind servant (Isaiah 42:19–20), watchmen who won't guard the breach (Ezekiel 13:5), prophets crying "Peace, peace" over a doomed city (Jeremiah 6:14; 8:11), fed prophets (Micah 3:5–7), the NT "blind guides" (Matthew 15:14; 23:16).
 - Song of Solomon 3:3 — "the watchmen who make the rounds in the city found me"
 - Song of Solomon 5:7 — the same watchmen "found me, they struck me and wounded me"
->  (I would study this out more)
+> *(I would study this out more)*
 - Jeremiah 31:6 — "the watchmen on the hills of Ephraim call out, 'Arise, let us go up to Zion'" *(study further — 1 Kings 12:26–33; Hosea 8:4; 9:15; Jeremiah 31:2, 31–34)*
 - Jeremiah 51:12 — "post a strong guard, station the watchmen" *(the watch set against Babylon)*
 > [!note]- Helpful notes
@@ -123,8 +123,8 @@ The contrast: watchmen who cry out vs. watchmen who are blind or who wound.
 > - **The watch guards the rest** — Nehemiah later stations guards at the gates to keep the Sabbath holy (Nehemiah 13:19–22); the watch protecting the day of rest (§1 of the parent sheet).
 > - **All watch, all build — so all may rest.** The labour and the watch are shared across the whole people: half guard while half build, and each lodges in the city to be "a guard by night and a labourer by day" (Nehemiah 4:16, 22). Because every man is ready and every man is at his post (Nehemiah 7:3), the watch is never dropped — and so each can take his rest in turn. Corporate readiness is what makes corporate rest possible: all are ready so that all, in their time, may enter the rest (§1; Hebrews 4:9–11, "let us... enter that rest").
 
-### The longer explanation
-> *We hope you have studied the word above — in context — before reading this; you will get far more out of it.*
+#### The longer explanation
+> *I hope you have studied the word above — in context — before reading this; you will get far more out of it.*
 
 **The watchman inside the city.** Here the watchman is set *inside* the city, inside the kingdom of God, and the function is the same as before: to be the one who speaks of what he sees. That is the whole of it — he sees, and he says.
 
@@ -143,10 +143,14 @@ The contrast: watchmen who cry out vs. watchmen who are blind or who wound.
 
 **The revelation — the watch never stops, but the watchman can rest.** Here is the thing to see. Yes, there is always a watch — but there are **many** watchmen and **many** shifts. So the *watch* never stops, yet the individual *watchman* can. The watch is kept because it is the watch**men**, not the watch**man** — the watchman is one of a company, never a lone figure on the wall.
 
-**Testimony — the restless watchman.** For the longest time I felt I had to keep watch for a very long time — that I could never come down off the wall. And the Lord told me: *you are the restless watchman, because you are afraid for other to take over the watch.* I had been seeking Him — how do I get others to watch? how would I ever have rest? — because You said in Your own word, "give Him no rest until He establishes Jerusalem and makes her a praise" (Isaiah 62:6–7); the watchman is to have no rest until You perform Your work. But then I understood: it is the **watch** that must never rest, not the **watchman**. The watchman is part of a body — we watch *for one another*; we do not watch alone. We take shifts. We trust one another to see what we ourselves would see if we were on the wall — and when any one watchman sees it and calls it out, the whole company is alerted to the same thing at once. That is how the watch never sleeps, and the watchmen still find their rest — all keep watch, so all may rest (folding back into §1).
+**Testimony — the restless watchman.** For the longest time I felt I had to keep watch for a very long time — that I could never come down off the wall. And the Lord told me: *you are the restless watchman, because you are afraid to let others take over the watch.* I had been seeking Him — how do I get others to watch? how would I ever have rest? — because You said in Your own word, "give Him no rest until He establishes Jerusalem and makes her a praise" (Isaiah 62:6–7); the watchman is to have no rest until You perform Your work. But then I understood: it is the **watch** that must never rest, not the **watchman**. The watchman is part of a body — we watch *for one another*; we do not watch alone. We take shifts. We trust one another to see what we ourselves would see if we were on the wall — and when any one watchman sees it and calls it out, the whole company is alerted to the same thing at once. That is how the watch never sleeps, and the watchmen still find their rest — all keep watch, so all may rest (folding back into §1).
 
 ## D · Watching for the morning (expectancy)
 The hope of the watch: the watchman endures the night because the morning is coming — and the morning is the very hour God acts (category E). Here watching *is* waiting, and waiting *is* hope.
+
+> [!warning]- Disclaimer
+> Admittedly, I have not drawn this section out as fully as the others — there is more here in the Word on the watch that waits in hope than what is set down. Take what is here as a beginning, and I encourage you to study it out for yourself; you will find more than what is written.
+
 - Psalm 127:1 — "unless the LORD guards the city, the watchman stays awake in vain"
 > [!note]- Helpful notes
 > The psalm *of Solomon* (superscription). The watchman who gives God no rest (Isaiah 62:7) and refuses rest himself turns out to have his own rest in the Lord: his waking is vain unless the LORD is the true guard, and the next breath is rest — "He gives to His beloved even in his sleep" (Psalm 127:2). So Habakkuk, having taken his post, ends resting in God while all fails: "Though the fig tree does not blossom... yet I will exult in the LORD" (Habakkuk 3:17–18). The watchman keeps the watch, but the Lord keeps him — folding §2 back into §1, the Rest of Jacob.
@@ -198,8 +202,8 @@ Where the watchman charge lands on every disciple.
 > [!note]- Helpful notes
 > Revelation 16:15 breathes the same air as Nehemiah's wall-builders: "Blessed is the one who stays awake and **keeps his clothes**, so that he will not walk about naked and men will not see his shame." As Nehemiah's men "did not remove their clothes, each keeping his weapon even at the water" (Nehemiah 4:23, category C), the ready watch never stands down — garment on, weapon in hand. Readiness is a garment you do not take off; to be caught undressed is exposure and shame (cf. Luke 12:35, "be dressed in readiness, and keep your lamps lit"; Ephesians 6:11–14).
 
-### The longer explanation
-> *We hope you have studied the word above — in context — before reading this; you will get far more out of it.*
+#### The longer explanation
+> *I hope you have studied the word above — in context — before reading this; you will get far more out of it.*
 
 **Praying is keeping watch.** In the New Testament, praying *is* keeping watch. When you see something, you proclaim it — and when you see something, you pray. And your prayer is not one thing only: it can be a prayer to build up, or to break down; to come against the works of the enemy — for the prophet-watchman's own word was set "to pluck up and to break down... to build and to plant" (Jeremiah 1:10). Part of praying, too, is *waiting* — waiting on God to receive from Him. That is how you stay alert at all times: you pray, you wait, and you listen to hear what the Lord is saying to you. Watching and praying are one motion (Matthew 26:41; Luke 21:36; Ephesians 6:18).
 
@@ -212,4 +216,13 @@ Where the watchman charge lands on every disciple.
 **The collective keeps the watch.** Because the watchmen keep watch *together*, they keep one another informed. When one of them stays up and sees the works of the Lord — sees the good news — that word passes to the next watchman, and from him into the whole body. So you stay watchful for the coming of the King — and yet this does not mean there is no rest. The watch never sleeps *because* the watchmen are many; and so each of them, in his turn, may rest.
 
 ---
+
+## Closing
+
+The watchman is set inside the city to see and to speak — commissioned by the water, trained to hear how the Lord speaks, and charged to warn of judgement (A–B). He is the first to behold the works of the Lord, and he answers for the souls he watches over. Yet he never watches alone: the watch is a company, from Nehemiah's wall to the whole church (C–F). Not all are watchmen, but the watchmen are many — enough to man the walls, enough to watch through the night, and enough to take rest.
+
+---
+
+> [!note] Disclaimer — how this was made
+> This study is my own. The thoughts, the convictions, and the interpretations here are mine. I use Claude (an AI) as a tool — to transcribe them from my thoughts onto the page, to help with formatting and presenting things in a clear, presentable way, and to proofread. The AI is the instrument; the study is mine.
 
