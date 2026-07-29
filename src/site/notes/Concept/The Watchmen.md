@@ -1,10 +1,7 @@
 ---
-{"dg-publish":true,"permalink":"/concept/the-watchmen/","created":"2026-07-28T22:46:13.596-07:00","updated":"2026-07-28T22:46:13.596-07:00"}
+{"dg-publish":true,"permalink":"/concept/the-watchmen/","created":"2026-07-28T22:46:13.596-07:00","updated":"2026-07-28T22:47:32.666-07:00"}
 ---
 
-
-> [!info] Backlink
-> Part of [[Runner, Messenger, Watchman and the Rest of Jacob\|Runner, Messenger, Watchman and the Rest of Jacob]] — this sheet expands **§2 · The Watchmen**.
 
 ## Introduction
 
