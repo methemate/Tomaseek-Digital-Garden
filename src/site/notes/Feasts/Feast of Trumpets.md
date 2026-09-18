@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/feasts/feast-of-trumpets/","title":"Feast of Trumpets","tags":["feast","trumpets","shadow-fulfilment","seventh-month-feasts"],"created":"2026-09-17T22:30:32.572-07:00","updated":"2026-09-17T22:30:32.572-07:00"}
+{"dg-publish":true,"permalink":"/feasts/feast-of-trumpets/","title":"Feast of Trumpets","created":"2026-09-17T22:37:20.363-07:00","updated":"2026-09-17T22:38:13.653-07:00"}
 ---
 
 # Feast of Trumpets — Yom Teruah
@@ -23,7 +23,7 @@
 
 ## The requirements of the day
 
-The Law lays these on Tishri 1 (Leviticus 23:23–25; Numbers 29:1–6):
+The Law lays out these requirements (Leviticus 23:23–25; Numbers 29:1–6):
 
 1. **A holy convocation** — a consecrated, summoned assembly (*miqra qodesh*; see the terminology in [[00 — The Feasts Overview\|00 — The Feasts Overview]]) — Leviticus 23:24; Numbers 29:1.
 2. **A sabbath — rest** — *"shall ye have a sabbath"* (Leviticus 23:24).
@@ -33,10 +33,7 @@ The Law lays these on Tishri 1 (Leviticus 23:23–25; Numbers 29:1–6):
    - **Burnt offering** — one young bullock, one ram, seven lambs of the first year without blemish (Numbers 29:2)
    - **Meat (meal) offering** — flour mingled with oil: three tenth deals for the bullock, two for the ram, one per lamb (Numbers 29:3–4)
    - **Sin offering** — one kid of the goats, *"to make an atonement for you"* (Numbers 29:5)
-6. **Added on top of the standing offerings** — this day's sacrifice is *beside* the new-moon (monthly) offering and the daily continual offering, with their drink offerings (Numbers 29:6; cf. Numbers 28:11–15; 28:3–8). Three layers rise together on this day: the **daily**, the **monthly** new moon, and the **feast**.
-
-> [!warning] No fast on Trumpets
-> There is no command to fast or afflict the soul on Trumpets — that belongs to the [[Feasts/Day of Atonement\|Day of Atonement]] ten days later (Leviticus 23:27, 29).
+1. **Added on top of the standing offerings** — this day's sacrifice is *beside* the new-moon (monthly) offering and the daily continual offering, with their drink offerings (Numbers 29:6; cf. Numbers 28:11–15; 28:3–8). Three layers rise together on this day: the **daily**, the **monthly** new moon, and the **feast**.
 
 ## What we do on the day — and what it means for us
 
@@ -51,7 +48,7 @@ Taking the [[#The requirements of the day|requirements]] one by one — not to p
 **The rest — rest *in* the Lord.**
 The sabbath-rest was a gift of love. Israel had come out of Egypt, where they served without rest, so the Lord had to *show* them they did not have to work — on this day He let them do no work at all, a complete rest, teaching a once-enslaved people that laying the labour down is His gift, not their loss.
 
-What is that rest for us? **I think** it is laying down the things we carry — the worries we keep turning over, the striving to be someone we are not — and coming to Him **as we are**. Perhaps we have been selfish all our days; here is a day we lay that down. It is meant to bleed into all of life, but the holy day is marked as a reminder for us to actually do it.
+*What is that rest for us?* **I think** it is laying down the things we carry — the worries we keep turning over, the striving to be someone we are not — and coming to Him **as we are**. Perhaps we have been selfish all our days; here is a day we lay that down. It is meant to bleed into all of life, but the holy day is marked as a reminder for us to actually do it.
 
 **Shadow:** the sabbath-rest given to a people once worked without rest.
 **Fulfilment:** the rest that remains for the people of God — *"There remaineth therefore a rest to the people of God"* (Hebrews 4:9).
@@ -79,7 +76,7 @@ We keep it by coming together; it becomes an occasion for the gathering of the s
 
 ## The seventh month in our times (September–October)
 
-The seventh month is **Tishri** — September–October for us (Tishri 1 begins at sundown, 11 September 2026). It's the *seventh* because the year starts back at Nisan in the spring (Exodus 12:2), so we're in autumn now, harvest time, the year being gathered in. And seven is the number of **completion** — so this is the month of finishing, the end the whole year has been moving toward.
+The seventh month is **Tishri** — September–October for us (Tishri 1 begins at sundown, 11 September 2026). It's the *seventh* because the year starts back at Nisan in the spring (Exodus 12:2), so we're in autumn now, harvest time, the year being gathered in. Notice the number seven — the number of **completion**.
 
 ## Not a standalone feast — the feasts tell one story
 
@@ -160,7 +157,7 @@ So at Trumpets the Lord comes as **a light into darkness**, the new light breaki
 
 That new moon is also why the day's *hour* could not be fixed. By tradition (Mishnah, Rosh Hashanah), the new month was declared only after **two witnesses** came before the court and testified that they had seen the first sliver. They kept their watch **in the night**, and no one could name the hour it would appear — cloud might hide it, and the moon comes when it comes. Until the testimony was received and confirmed, the day could not be announced; so its beginning was never known in advance.
 
-This is the picture behind the Lord's own words:
+This is the picture behind Jesus words:
 
 - **Deuteronomy 19:15** — *"at the mouth of two witnesses, or at the mouth of three witnesses, shall the matter be established."*
 - **Matthew 24:36** — *"But of that day and hour knoweth no man, no, not the angels of heaven, but my Father only."* (cf. **Mark 13:32**)
@@ -174,10 +171,10 @@ But "as a thief in the night" does not mean the **season** is unknown — it mea
 - The fig tree — **Matthew 24:32–33** — *"when ye shall see all these things, know that it is near, even at the doors."*
 - The signs of the season — **Matthew 24:4–5, 11–12, 24** — *"many false prophets shall rise, and shall deceive many... iniquity shall abound, the love of many shall wax cold... false Christs, and false prophets."*
 
-So we know the season — deception, false prophets, love grown cold — and we are told to watch. In that season we have a work: to **usher in** the coming of the King, for the word of the Lord has come — part of which is to [[Feasts/Prepare the Way\|Prepare the Way]].
+So we know the season — deception, false prophets, love grown cold — and we are told to keep watch. In that season we have a work: to **usher in** the coming of the King, for the word of the Lord has come — part of which is to [[Feasts/Prepare the Way\|Prepare the Way]].
 
 **Shadow:** the new moon of the seventh month, unknowable until two witnesses testify, then proclaimed with the trumpet blast.
-**Fulfilment:** the King attested by two witnesses — *"the testimony of two men is true... I bear witness of myself, and the Father that sent me beareth witness of me"* (John 8:17–18) — coming on a day no man knows, in a season the watchful can read.
+**Fulfilment:** the King proclaimed after two witnesses — the two of **Revelation 11:3** who prophesy before the end — for when the last trumpet sounds, *"The kingdoms of this world are become the kingdoms of our Lord, and of his Christ; and he shall reign for ever and ever"* (Revelation 11:15). He comes on a day no man knows, in a season only the watchful can keep watch.
 
 > [!question] Terms to trace — open study prompts
 > - *teruah* — the blast/shout of the trumpet
