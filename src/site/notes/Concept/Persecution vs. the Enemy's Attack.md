@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/concept/persecution-vs-the-enemy-s-attack/","created":"2026-10-03T07:57:56.255-07:00","updated":"2026-10-27T20:41:14.551-07:00"}
+{"dg-publish":true,"permalink":"/concept/persecution-vs-the-enemy-s-attack/","created":"2026-10-03T07:57:56.255-07:00","updated":"2026-10-27T20:52:54.817-07:00"}
 ---
 
 
@@ -23,7 +23,7 @@ These are not the same, and mixing them up leads people astray. It causes *fear*
 
 Here's the part people miss: when you get your house cleaned up, the enemy who was already inside is now put out — no longer inside. So now they have to climb back over the wall. They have to force the gate again. That makes them easier to spot coming. But the fact that someone whose house isn't clean doesn't seem to be under attack doesn't mean they, the enemy, aren't there. If they're already in the house, they don't need to make it obvious. They're already close enough.
 
-This is the same picture Christ gave of the unclean spirit that goes out, wanders through dry places, and then says, "I will return into my house" — and finding it swept and put in order, goes and brings seven others more wicked than itself (Matthew 12:43-45). Once the house is clean, the spirit that got kicked out doesn't vanish — it either looks for a way back through the gate, or looks for another body to inhabit. Their attack is now *more visible* because they're attacking from the outside, trying to force their way back in, instead of already being on the inside. That does not mean it is retaliation. They do not need a **cause** to attack. They need an **opening**!
+This is the same picture Christ gave of the unclean spirit that goes out, wanders through dry places, and then says, "I will return into my house" — and finding it swept and put in order, goes and brings seven others more wicked than itself (Matthew 12:43-45). Once the house is clean, the spirit that got kicked out doesn't vanish — it either looks for a way back through the gate, or looks for another body to inhabit. Their attack is now *more visible* because they're attacking from the outside, trying to force their way back in, instead of already being on the inside. That does not mean it is retaliation. They do not need a **cause** to attack. They just need an **opening**!
 
 And this is where the teaching gets it backward on Scripture too. God said if you obey him, you will come against your enemies and they will flee before you seven ways — completely scattered (Deuteronomy 28:7). That's the promise: obedience routs the enemy sevenfold. But we've flipped it into:
 
