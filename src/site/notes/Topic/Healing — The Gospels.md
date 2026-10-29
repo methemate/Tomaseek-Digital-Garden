@@ -1,5 +1,5 @@
 ---
-{"dg-publish":true,"permalink":"/topic/healing-the-gospels/","created":"2026-10-27T20:37:28.113-07:00","updated":"2026-10-27T20:37:28.113-07:00"}
+{"dg-publish":true,"permalink":"/topic/healing-the-gospels/","created":"2026-10-28T18:36:08.607-07:00","updated":"2026-10-28T18:36:08.607-07:00"}
 ---
 
 
@@ -257,12 +257,32 @@ Immediately the news about Him spread everywhere into all the surrounding region
 </div></div>
 
 
-**Meditated on:** 
+**Meditated on:** 2026-10-28
 
 > [!meditate]- Meditation
-> **Prayer** — 
-> **Understanding** — 
-> **Meditate** — 
+> **Prayer** — Father, give us an understanding of Your word for us, and of the work that You have given us to do, and of Your words that You have commanded us to do. Let us meditate on it day and night. Let us have it written in our hearts. Let us walk it out, walk it out with fear and trembling, so that we are to others as if You are standing in front of them; that we carry Your glory, that we carry Your presence in all the things that we do; that even the demons shudder when they see us, that they don't even lift their eyes up, but they must speak out. They are not scoffing at the things we do, but they are afraid, because the presence of the Lord is with us. The nature of God is in us. Let it be ours. Let it be the joy in our hearts to carry out Your word, that we will do it boldly and with joy. In Jesus' name. Amen.
+>
+> **Understanding** — What they must have heard of in Capernaum was probably how Jesus spoke a word to that royal official and his son was healed in Capernaum. They were referring to it. But here is the interesting part: they still don't believe. That is why Jesus rebuked them: "No doubt you will quote this proverb to Me: 'Physician, heal yourself! All _the miracles that_ we heard were done in Capernaum, do here in Your hometown as well.'" (Luke 4:23). They didn't believe. They were challenging Him.
+>
+> And the whole point of that healing in Capernaum is that the official took Him at His word. He believed the exact thing Jesus said, and he went on his way without even thinking twice, because he believed the word that He spoke. He had looked to Him, to His character, to who He is, to the authority He carries, and that His word has meaning. So he believed, and his son was healed. Yet these people, hearing of that testimony, don't believe, and they challenge Him.
+>
+> Then He goes on to say that in the days of Elijah there were many widows in Israel, and yet Elijah was sent to none of them, only to a widow at Zarephath in the land of Sidon, and she was provided for. And in the time of Elisha there were many with leprosy in Israel, and none of them was cleansed, only Naaman the Syrian (Luke 4:25–27). These outsiders had more faith than you who sit in the synagogue. You challenge God. You find a way to philosophize everything. You find a way to complicate everything God said. Yet there are these people who received the grace of God because they believed Him at His word. That is where the authority is.
+>
+> Then in Capernaum they were amazed at what He was teaching. We don't know specifically what He taught; it was probably something like this. But we know He was teaching, and He has this understanding of the character of God, and He speaks of things that weren't spoken of at the time, because they had no understanding of God. They had heard of this man. But now they hear Him, right here, the word He is speaking. Maybe they had even seen the miracles, how the word was used. That is when they said this man teaches with authority. It is not just the things He says; it is the understanding He has of the rights of those who are in the Lord, and also having the authority, and the power, the dunamis, that goes with it.
+>
+> And when He walks in carrying that, the spirit is afraid. Did it speak out to sabotage Him, or was it trembling because the presence of God was there, the authority was there? I don't know. But Jesus rebuked him: "Be quiet and come out of him!" Those were short words, but they are words of authority, and as One commands, so the thing does. And it threw him down in the midst of the people without doing him any harm (Luke 4:35). That is amazing, because there might be deliverance that causes harm to the person. Why was this highlighted? I think that is why. And the people were amazed: "What is this message? For with authority and power He commands the unclean spirits, and they come out!" (Luke 4:36). And the news spread.
+>
+> So is this healing? In a way it is. That spirit was wrecking that man. It had the power to overpower him, and it wasn't going to leave until the Lord came. His life became better for it. This is a part of the healing.
+>
+> "and those who were troubled by unclean spirits were being cured." — Luke 6:18
+>
+> "_You know of_ Jesus of Nazareth, how God anointed Him with the Holy Spirit and with power, and _how_ He went about doing good and healing all who were oppressed by the devil, for God was with Him." — Acts 10:38
+>
+> **Meditate** — That is the setting; that is where Jesus was. In His hometown they heard the testimony and still challenged Him, and they drove Him out of the city to the crest of the hill to throw Him down from the cliff (Luke 4:29). Yet it wasn't His time; He passed through their midst and went on His way. Where He was, the people rejected Him, and He dusts off His feet and goes, and He continues with the same message, unwavering. He came down to Capernaum, and there He teaches with authority, and with demonstration of the things of God.
+>
+> He must have understood very clearly His calling, and what was commanded of Him. So He persists in the things He was teaching and stays steadfast. The call of God in Luke is for Him "to bring good news to the poor... to proclaim release to captives, And recovery of sight to the blind, To set free those who are oppressed, To proclaim the favorable year of the Lord" (Luke 4:18–19). Nowhere in there does it say that people will come to Him, that everybody will come to Him. That wasn't the job. That wasn't for now; it was for later. But for today, the word needs to be spread, and those who come to be set free shall be set free. That's where Jesus was.
+>
+> So to move forward in this healing, you need to know exactly what authority you carry, and you shut down anything that comes in the way of God. Anything that is trying to impede the works of God, you shut it all down, you shut it all out, and you free those you are meant to set free.
 
 ---
 
